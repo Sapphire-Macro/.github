@@ -3,7 +3,7 @@
 We’re **Sapphire Team**, a group of passionate developers focused on creating innovative tools and macros for Roblox games, like our flagship project: **Fisch Macro**. Whether you’re a casual player or an avid grinder, our tools are here to enhance your gaming experience. 🎮✨  
 
 ---
-[<img src="https://gist.github.com/cxmeel/0dbc95191f239b631c3874f4ccf114e2/raw/SERVICE-icon.svg" alt="Get it on SERVICE" height="32" />](https://example.com/...)
+[<img src="https://github.com/Sapphire-Macro/.github/blob/main/profile/roblox_dev.svg" alt="Get it on SERVICE" height="32" />](https://example.com/...)
 ---
 
 ## ✨ Our Mission  
