@@ -1,6 +1,6 @@
 # Welcome to Sapphire Team! 💎  
 
-We’re **Sapphire Team**, a group of passionate developers focused on creating innovative tools and macros for Roblox games, like our flagship project: **Fisch Macro**. Whether you’re a casual player or an avid grinder, our tools are here to enhance your gaming experience. 🎮✨  
+We’re **Sapphire Team**, a group of passionate developers focused on creating innovative tools and macros for Roblox games. Whether you’re a casual player or an avid grinder, our tools are here to enhance your gaming experience. 🎮✨  
 <!-- I HAVE NO CLUE WTF IM DOING, HELP, I HAVE NEVER SEEN THIS HTML TAG BEFORE IN MY LIFE ↓↓↓↓↓↓↓↓↓↓↓ /-->
 ---
 [<kbd> <br> Sapphire-Macro <br> </kbd>](https://github.com/Goldfish-cool/Sapphire-Macro)&emsp;&emsp;[<kbd> <br> Sapphire-Site <br> </kbd>](https://github.com/Sapphire-Macro/Sapphire-Site)
