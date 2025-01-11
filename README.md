@@ -19,10 +19,10 @@ At Sapphire Team, we aim to:
 A powerful macro designed for the Roblox game **Fisch**, featuring:  
 - Automated gameplay assistance.  
 - Customizable options for laggy PCs.  
-- Mini-game mastery tools and Discord webhook integration.  
+- Auto Mini-game tools and Discord webhook integration.  
 
 ### [Sapphire Team Macro Site](https://sapphire-macro.github.io/Sapphire-Site/)  
-Your go-to source for downloading Fisch Macro, reading updates, and staying informed about the latest news in the **Fisch** community.  
+Your go-to source for downloading Fisch Macro, reading updates, and staying informed about the latest news in the **Fisch** Macro community.  
 
 ---
 
@@ -42,18 +42,11 @@ We prioritize transparency and efficiency in our development process. Here's how
 
 **Developers:**  
 - [/x64/dumped](https://discord.com/users/1064395299042381874)  
-- [AuriFisch](https://discord.com/users/1092678374427738203)  
+- [AuriFisch](https://discord.com/users/1092678374427738203)
+- [Darkness](https://discord.com/users/681934150743097387)
 
 **Community Contributors:**  
 We are grateful to our dedicated community, including moderators, trial mods, and enthusiastic players who keep us inspired. 💪  
-
----
-
-## 🛠️ Technologies We Use  
-
-- **Languages:** Python, AutoHotkey (AHK)  
-- **Platforms:** GitHub Pages, Discord Webhooks  
-- **Tools:** GitHub Actions, Batch Scripting  
 
 ---
 
