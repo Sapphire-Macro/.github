@@ -1,3 +1,4 @@
+<div align="center">
 # Welcome to Sapphire Team! 💎  
 
 We’re **Sapphire Team**, a group of passionate developers focused on creating innovative tools and macros for Roblox games. Whether you’re a casual player or an avid grinder, our tools are here to enhance your gaming experience. 🎮✨  
@@ -71,3 +72,4 @@ Our projects are licensed under **GPU v3.0**. Please ensure you credit us if you
 Thank you for supporting Sapphire Team and Fisch Macro! We’re committed to providing the best tools for the Roblox Fisch community. If you have questions, suggestions, or just want to say hi, don’t hesitate to reach out.  
 
 Happy gaming! 🕹️🎉  
+</div>
